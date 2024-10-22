@@ -4,5 +4,7 @@ L7 Informatics Internship Program Assignment Python Programming Round
 
 
 ●	Seasonal flavor offerings 
+
 ●	Ingredient inventory
+
 ●	Customer flavor suggestions and allergy concerns
